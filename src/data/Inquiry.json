@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Savings",
+      "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+      "subtitle": 3000
+    },
+    {
+        "name": "Deposit",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+        "subtitle": 30000
+    },
+    {
+        "name": "Card Payment",
+        "avatar_url": "https://s3.amazonaws.com/uifaces/faces/twitter/ladylexy/128.jpg",
+        "subtitle": 6000
+    }
+  ]
